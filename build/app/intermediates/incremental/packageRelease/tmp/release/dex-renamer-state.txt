@@ -1,0 +1,4 @@
+#Wed Sep 23 21:59:44 MYT 2020
+base.0=/Users/Leg3ndZ/Desktop/insolvensi/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
